@@ -1,13 +1,7 @@
 # Fitness-blender
 Original # https://www.fitnessblender.com/
 
-## Features
 
-- Fullscreen mode
-- Easy navigation by category section
-- Shop
-- Cart Functionality
-- Responsive UI
 
 
 
@@ -34,8 +28,13 @@ Original # https://www.fitnessblender.com/
 </div>
 
 
+## Features
 
-Functionality for adding any product to cart.
+- Fullscreen mode
+- Easy navigation by category section
+- Shop
+- Cart Functionality
+- Responsive UI
 
 <div>
 <h2>Areas of responsibility:</h2>
@@ -44,6 +43,8 @@ Functionality for adding any product to cart.
 <li>Created Programs Page with Responsive</li>
 <li>Created  User Login , Logout </li>
 </div>
+
+<h2>Watch Live <a href="https://fitnesscenter1.netlify.app">Link</a></h2>
 
 
 
